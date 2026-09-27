@@ -1,0 +1,25 @@
+body{
+	background-image: url("img1.jfif");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h1{
+	font-size: 55px;
+	
+}
+
+p{
+	font-size: 35px;
+	color: purple;
+}
+
+.amarillo{
+	color: yellow;
+}
+
+.amarillo2{
+	color: purple;
+	font-size: 60px;
+}
